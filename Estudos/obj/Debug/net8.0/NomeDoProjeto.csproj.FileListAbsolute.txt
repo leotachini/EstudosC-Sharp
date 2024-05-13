@@ -1,0 +1,14 @@
+C:\Users\leo1t\Projetos\CorridaC#\bin\Debug\net8.0\NomeDoProjeto.exe
+C:\Users\leo1t\Projetos\CorridaC#\bin\Debug\net8.0\NomeDoProjeto.deps.json
+C:\Users\leo1t\Projetos\CorridaC#\bin\Debug\net8.0\NomeDoProjeto.runtimeconfig.json
+C:\Users\leo1t\Projetos\CorridaC#\bin\Debug\net8.0\NomeDoProjeto.dll
+C:\Users\leo1t\Projetos\CorridaC#\bin\Debug\net8.0\NomeDoProjeto.pdb
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\NomeDoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\NomeDoProjeto.AssemblyInfoInputs.cache
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\NomeDoProjeto.AssemblyInfo.cs
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\NomeDoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\NomeDoProjeto.dll
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\refint\NomeDoProjeto.dll
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\NomeDoProjeto.pdb
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\NomeDoProjeto.genruntimeconfig.cache
+C:\Users\leo1t\Projetos\CorridaC#\obj\Debug\net8.0\ref\NomeDoProjeto.dll
